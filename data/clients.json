@@ -298,7 +298,10 @@
         "name": "Kaidan",
         "platforms": [
             "Android",
+            "iOS",
             "Linux",
+            "macOS",
+            "Other",
             "Windows"
         ],
         "url": "https://kaidan.im"
